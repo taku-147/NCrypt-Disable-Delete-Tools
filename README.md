@@ -1,8 +1,8 @@
 # NCrypt-Disable-Delete-Tools
 Norton Cryptoを無効化/削除するツールです。
-対応OS:Windows10/11
 EXEだけど中身はただのBATだったりします。
-管理者権限で実行してください
+管理者権限で実行してください。
+対応OS:Windows10/11
 
 あとGitHub初心者だからなんか間違ってたら許して
 
